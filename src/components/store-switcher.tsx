@@ -8,8 +8,8 @@ import {
   PlusCircle,
   Store as StoreIcon,
 } from "lucide-react";
-
 import { Store } from "@prisma/client";
+
 import {
   Popover,
   PopoverContent,
